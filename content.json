@@ -15,19 +15,19 @@
     "items": [
       {
         "name": "Photoshop",
-        "percent": 75
+        "percent": 70
       },
       {
         "name": "Illustrator",
-        "percent": 15
+        "percent": 24
       },
       {
         "name": "Premiere Pro",
-        "percent": 15
+        "percent": 14
       },
       {
         "name": "Figma",
-        "percent": 20
+        "percent": 11
       }
     ]
   },
@@ -36,7 +36,7 @@
       {
         "file": "Image-43.webp",
         "tag": "بنر استوری",
-        "description": "طراحی بنر تبلیغاتی برای فروشگاه موبایل نور، با تصویرسازی انجام‌شده به کمک هوش مصنوعی."
+        "description": "طراحی بنر تبلیغاتی برای فروشگاه موبایل نورس با تصویرسازی انجام‌شده به کمک هوش مصنوعی."
       },
       {
         "file": "Image-23.webp",
@@ -164,5 +164,5 @@
     "text": "وقتشه کسب‌وکارت بهتر دیده بشه.",
     "button": "شروع گفتگو"
   },
-  "updatedAt": "2026-11-08T18:18:21.780Z"
+  "updatedAt": "2026-11-08T18:22:45.598Z"
 }
