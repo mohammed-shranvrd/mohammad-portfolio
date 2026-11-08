@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "about": {
+    "text": "من محمد صحرانورد هستم، طراح گرافیک. مدتی است مسیر طراحی را به‌صورت جدی دنبال می‌کنم و بیشتر آنچه آموخته‌ام حاصل تمرین، آزمون‌وخطا و یادگیری شخصی بوده است. همیشه کنجکاوم چیزهای تازه یاد بگیرم و خودم را به چالش بکشم. در طراحی، زیبایی بصری و توجه به جزئیات برایم اهمیت زیادی دارد؛ هر پروژه فرصتی است برای خلق، یادگیری و پیشرفت."
+  },
+  "experience": {
+    "items": [
+      "همکاری با کانون تبلیغاتی مهرافزا در طراحی محتوای گرافیکی و تبلیغاتی",
+      "همکاری در پروژه‌های آموزش‌وپرورش خراسان جنوبی",
+      "مشارکت در فعالیت‌های کانون‌های فرهنگی",
+      "حضور در کارگاه استانی تولید آثار گرافیکی"
+    ]
+  },
+  "skills": {
+    "items": [
+      {
+        "name": "Photoshop",
+        "percent": 75
+      },
+      {
+        "name": "Illustrator",
+        "percent": 15
+      },
+      {
+        "name": "Premiere Pro",
+        "percent": 15
+      },
+      {
+        "name": "Figma",
+        "percent": 20
+      }
+    ]
+  },
+  "works": {
+    "items": [
+      {
+        "file": "Image-1.png",
+        "tag": "بنر استوری",
+        "description": ""
+      },
+      {
+        "file": "Image-2.png",
+        "tag": "بنر استوری",
+        "description": ""
+      },
+      {
+        "file": "Image-3.png",
+        "tag": "بنر استوری",
+        "description": ""
+      },
+      {
+        "file": "Image-4.jpg",
+        "tag": "بنر استوری",
+        "description": ""
+      },
+      {
+        "file": "Image-5.jpg",
+        "tag": "فتومونتاژ",
+        "description": ""
+      },
+      {
+        "file": "Image-6.jpg",
+        "tag": "فتومونتاژ",
+        "description": ""
+      },
+      {
+        "file": "Image-7.jpg",
+        "tag": "فتومونتاژ",
+        "description": ""
+      },
+      {
+        "file": "Image-8.png",
+        "tag": "بنر استوری",
+        "description": ""
+      },
+      {
+        "file": "Image-9.jpg",
+        "tag": "بنر استوری",
+        "description": ""
+      },
+      {
+        "file": "Image-10.png",
+        "tag": "بنر استوری",
+        "description": ""
+      },
+      {
+        "file": "Image-11.jpg",
+        "tag": "بنر استوری",
+        "description": ""
+      },
+      {
+        "file": "Image-12.png",
+        "tag": "بنر استوری",
+        "description": ""
+      },
+      {
+        "file": "Image-13.jpg",
+        "tag": "پوستر",
+        "description": ""
+      },
+      {
+        "file": "Image-14.jpg",
+        "tag": "پوستر",
+        "description": ""
+      },
+      {
+        "file": "Image-15.jpg",
+        "tag": "پوستر",
+        "description": ""
+      },
+      {
+        "file": "Image-16.jpg",
+        "tag": "پوستر",
+        "description": ""
+      },
+      {
+        "file": "Image-17.jpg",
+        "tag": "پوستر",
+        "description": ""
+      },
+      {
+        "file": "Image-18.jpg",
+        "tag": "پوستر",
+        "description": ""
+      },
+      {
+        "file": "Image-19.jpg",
+        "tag": "پوستر",
+        "description": ""
+      },
+      {
+        "file": "Image-20.jpg",
+        "tag": "پوستر",
+        "description": ""
+      },
+      {
+        "file": "Image-21.jpg",
+        "tag": "بنر",
+        "description": ""
+      },
+      {
+        "file": "Image-22.png",
+        "tag": "بنر استوری",
+        "description": ""
+      }
+    ]
+  },
+  "contact": {
+    "phone": "09013623335",
+    "id": "",
+    "email": "",
+    "lead": "برای همکاری یا سفارش طراحی، از راه‌های زیر در دسترس هستم.",
+    "platforms": [
+      {
+        "key": "instagram",
+        "enabled": true
+      },
+      {
+        "key": "telegram",
+        "enabled": true
+      },
+      {
+        "key": "whatsapp",
+        "enabled": true
+      }
+    ]
+  },
+  "cta": {
+    "text": "وقتشه کسب‌وکارت بهتر دیده بشه.",
+    "button": "شروع گفتگو"
+  },
+  "updatedAt": "2026-11-08T16:53:21.235Z"
+}
