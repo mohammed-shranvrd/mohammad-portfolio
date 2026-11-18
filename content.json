@@ -15,11 +15,11 @@
     "items": [
       {
         "name": "Photoshop",
-        "percent": 70
+        "percent": 68
       },
       {
         "name": "Illustrator",
-        "percent": 24
+        "percent": 15
       },
       {
         "name": "Premiere Pro",
@@ -164,5 +164,5 @@
     "text": "وقتشه کسب‌وکارت بهتر دیده بشه.",
     "button": "شروع گفتگو"
   },
-  "updatedAt": "2026-11-08T18:22:45.598Z"
+  "updatedAt": "2026-11-18T19:55:47.945Z"
 }
